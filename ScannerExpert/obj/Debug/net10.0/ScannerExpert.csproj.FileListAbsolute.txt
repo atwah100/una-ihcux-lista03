@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\bin\Debug\net10.0\ScannerExpert.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\bin\Debug\net10.0\ScannerExpert.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\bin\Debug\net10.0\ScannerExpert.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\bin\Debug\net10.0\ScannerExpert.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\bin\Debug\net10.0\ScannerExpert.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\refint\ScannerExpert.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ScannerExpert.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\LabDotnet\ScannerExpert\obj\Debug\net10.0\ref\ScannerExpert.dll
